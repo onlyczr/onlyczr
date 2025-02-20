@@ -3,21 +3,17 @@
 ___
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyczr&label=Profile%20views&color=0e75b6&style=flat" alt="onlyczr" />
 <a href="https://www.buymeacoffee.com/onlyczr"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="onlyczr" /></p>
 
- <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyczr&show_icons=true&locale=en" alt="onlyczr" />
-&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlyczr&" alt="onlyczr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyczr&show_icons=true&locale=en" alt="onlyczr" style="max-width:100%; height: auto;" />
+&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlyczr&" alt="onlyczr" style="max-width:100%; height: auto;" /></p>
 
-<br>
 
 ---
 
-<h3 align="center"> 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 </h3>
+<h3 align="center"> 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 </h3>
 <h3 align="left"> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 </h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
