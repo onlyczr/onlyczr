@@ -2,8 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyczr&label=Profile%20views&color=0e75b6&style=flat" alt="onlyczr" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=onlyczr&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=onlyczr&theme=default&hide_border=false)<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyczr&show_icons=true&locale=en&layout=compact" alt="onlyczr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyczr&show_icons=true&locale=en" alt="onlyczr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlyczr&" alt="onlyczr" /></p>
 
 ## 🌐 Socials:
 
