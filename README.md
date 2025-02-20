@@ -7,8 +7,8 @@ ___
 <a href="https://www.buymeacoffee.com/onlyczr"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="onlyczr" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyczr&show_icons=true&locale=en" alt="onlyczr" style="max-width:100%; height: auto;" />
-&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlyczr&" alt="onlyczr" style="max-width:100%; height: auto;" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=onlyczr&show_icons=true&locale=en" alt="onlyczr" style="width:auto; height: auto;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyczr&" alt="onlyczr" style="width:auto; height: auto;" /> </p>
 
 
 ---
